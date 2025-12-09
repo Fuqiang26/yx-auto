@@ -1,4 +1,4 @@
-// Cloudflare Worker - 简化版优选工具
+// Cloudflare Worker - 简化版优选工具1.0
 // 仅保留优选域名、优选IP、GitHub、上报和节点生成功能
 
 // 默认配置
